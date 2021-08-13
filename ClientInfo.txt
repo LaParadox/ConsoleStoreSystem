@@ -1,0 +1,9 @@
+-------------------------------------
+Client's name: erick
+Client's phonenumber: 2112
+Product name: Jeans
+Product code: 5
+Amount purchased:10
+Total price: 1300
+Change: 70
+-------------------------------------

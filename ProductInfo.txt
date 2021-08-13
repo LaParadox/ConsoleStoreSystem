@@ -1,0 +1,6 @@
+-------------------------------------
+Product name: Jeans
+Product code: 5
+Amount purchased:10
+Money earned: 1230
+-------------------------------------
